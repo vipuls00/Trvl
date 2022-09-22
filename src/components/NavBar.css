@@ -1,0 +1,14 @@
+
+.btn  {
+    background-color: black;
+    color: aliceblue;
+    border-color: aliceblue;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+.navbar{
+    height: max-content;
+    background-color: black;
+}
